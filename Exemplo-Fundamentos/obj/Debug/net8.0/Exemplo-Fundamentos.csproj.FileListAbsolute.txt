@@ -1,0 +1,14 @@
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/bin/Debug/net8.0/Exemplo-Fundamentos
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/bin/Debug/net8.0/Exemplo-Fundamentos.deps.json
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/bin/Debug/net8.0/Exemplo-Fundamentos.runtimeconfig.json
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/bin/Debug/net8.0/Exemplo-Fundamentos.dll
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/bin/Debug/net8.0/Exemplo-Fundamentos.pdb
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.AssemblyInfoInputs.cache
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.AssemblyInfo.cs
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.csproj.CoreCompileInputs.cache
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.dll
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/refint/Exemplo-Fundamentos.dll
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.pdb
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/Exemplo-Fundamentos.genruntimeconfig.cache
+/Users/mitz/Documents/Development/dotnet-dio/Exemplo-Fundamentos/obj/Debug/net8.0/ref/Exemplo-Fundamentos.dll
