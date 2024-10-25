@@ -1,0 +1,15 @@
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/bin/Debug/net8.0/BancoDeDados
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/bin/Debug/net8.0/BancoDeDados.deps.json
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/bin/Debug/net8.0/BancoDeDados.runtimeconfig.json
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/bin/Debug/net8.0/BancoDeDados.dll
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/bin/Debug/net8.0/BancoDeDados.pdb
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.AssemblyInfoInputs.cache
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.AssemblyInfo.cs
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.csproj.CoreCompileInputs.cache
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.sourcelink.json
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.dll
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/refint/BancoDeDados.dll
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.pdb
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/BancoDeDados.genruntimeconfig.cache
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/obj/Debug/net8.0/ref/BancoDeDados.dll

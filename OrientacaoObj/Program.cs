@@ -8,27 +8,32 @@ CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 // 
 // Serialize
 // 
-List<Venda> listaVenda = new List<Venda>();
-Venda v1 = new Venda(1, "iPhone 15", 4797.00M, DateTime.Now);
-Venda v2 = new Venda(2, "iPhone 14", 3897.00M, DateTime.Now);
+// List<Venda> listaVenda = new List<Venda>();
+// Venda v1 = new Venda(1, "iPhone 15", 4797.00M, DateTime.Now);
+// Venda v2 = new Venda(2, "iPhone 14", 3897.00M, DateTime.Now);
 
-listaVenda.Add(v1);
-listaVenda.Add(v2);
+// listaVenda.Add(v1);
+// listaVenda.Add(v2);
 
-string serializado = JsonConvert.SerializeObject(listaVenda, Formatting.Indented); // Converte o objeto para JSON
+// string serializado = JsonConvert.SerializeObject(listaVenda, Formatting.Indented); // Converte o objeto para JSON
 
-File.WriteAllText("Arquivos/vendas.json", serializado);
+// File.WriteAllText("Arquivos/vendas.json", serializado);
+
+
 
 //
 // Deserialize
 // 
-string conteudoJson = File.ReadAllText("Arquivos/vendas.json");
-List<Venda> listaVendaDeserialize = JsonConvert.DeserializeObject<List<Venda>>(conteudoJson);
+// string conteudoJson = File.ReadAllText("Arquivos/vendas.json");
+// List<Venda> listaVendaDeserialize = JsonConvert.DeserializeObject<List<Venda>>(conteudoJson);
 
-foreach (Venda venda in listaVendaDeserialize) 
-{
-    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, Data: {venda.Data}");
-}
+// foreach (Venda venda in listaVendaDeserialize) 
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, Data: {venda.Data}");
+// }
+
+
+
 // string path = "Arquivos/leitura.txt";
 // LeituraArquivo leituraArquivo = new LeituraArquivo();
 // var(sucesso, linhas, qntdLinhas) = leituraArquivo.LerArquivo(path);

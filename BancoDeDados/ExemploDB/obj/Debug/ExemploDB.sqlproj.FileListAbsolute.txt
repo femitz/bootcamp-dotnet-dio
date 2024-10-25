@@ -1,0 +1,9 @@
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/bin/Debug/ExemploDB.dacpac
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/bin/Debug/ExemploDB.dll
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/bin/Debug/ExemploDB.pdb
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/obj/Debug/Model.xml
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/obj/Debug/refactor.xml
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/obj/Debug/postdeploy.sql
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/obj/Debug/predeploy.sql
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/obj/Debug/ExemploDB.dll
+/Users/mitz/Documents/Development/dotnet-dio/BancoDeDados/ExemploDB/obj/Debug/ExemploDB.pdb
